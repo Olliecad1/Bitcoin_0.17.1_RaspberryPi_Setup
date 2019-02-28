@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
 
 # Install updates
 sudo apt-get update
